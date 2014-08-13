@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "MapVote"
+	"author_name" "author"
+	"info" "A Fretta-Like Mapvote System.  Works out of the box with TTT and Deathrun."
+}
